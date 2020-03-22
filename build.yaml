@@ -1,0 +1,16 @@
+---
+name: "veso-plugin-trakt"
+guid: "4fe3201e-d6ae-4f2e-8917-e12bda571281"
+version: "9"
+veso_version: "10.5.0"
+nicename: "Trakt"
+owner: "veso"
+description: "Record your watched media with Trakt"
+overview: >
+  Record your watched media with Trakt.
+category: "General"
+artifacts:
+  - "Trakt.dll"
+build_type: "dotnet"
+dotnet_configuration: "Release"
+dotnet_framework: "netstandard2.1"
