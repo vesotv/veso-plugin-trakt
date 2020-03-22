@@ -62,7 +62,7 @@ namespace Trakt.ScheduledTasks
 
         public string Name => "Import playstates from Trakt.tv";
 
-        public string Description => "Sync Watched/Unwatched status from Trakt.tv for each Jellyfin user that has a configured Trakt account";
+        public string Description => "Sync Watched/Unwatched status from Trakt.tv for each Veso user that has a configured Trakt account";
 
         public string Category => "Trakt";
 
